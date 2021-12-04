@@ -1,2 +1,3 @@
 N,a,b =map(int,input().split())
-print(a-(a-b)*(N-1))
+r=a-(a-b)*(N-1)
+print(r)

@@ -12,5 +12,5 @@ while 1:
     a=-a
     b+=2
     t=a/b
-pi=sum*4
-print(b,"pi的值是{:.20f}".format(pi))
+    pi=sum*4
+    print(b,"pi的值是{:.100f}".format(pi))
