@@ -18,7 +18,7 @@ else:
     while count <= num0: 
         num2 = num1 % count
         num3 = num1 / count
-        print(sum,num4,int(num0/num3))
+        # print(sum,num4,int(num0/num3))
         if num2 == 0 and num4!=int(num0/num3):
             num4 =int( num0 / num3)
             sum=sum+num4
