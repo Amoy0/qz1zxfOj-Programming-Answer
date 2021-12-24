@@ -15,3 +15,7 @@ i=0
 while i%5!=1 or i%6!=5 or i%7!=4 or i%11!=10:
   i=i+1
 print(i)
+
+
+#另一解法（不推荐）
+#print(2111)
